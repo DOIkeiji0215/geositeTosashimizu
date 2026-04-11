@@ -529,6 +529,15 @@
         "geometry":{"type":"Point","coordinates":[132.85970234857817,32.78994925025655]}},
         
         { "type": "Feature", "properties": { 
+            "_name":"解説板　叶崎",
+            "_attr":"説明",
+            "_image":[""], 
+            "_explanation":"",
+            "_offset":100
+        },
+        "geometry":{"type":"Point","coordinates":[132.802488,32.749806]}},
+
+        { "type": "Feature", "properties": { 
             "_name":"解説板　ビジターセンター前",
             "_attr":"説明",
             "_image":["VC"], 
