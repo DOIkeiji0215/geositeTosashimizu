@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "geopark_japan",
+    "name": "geopark_area",
     "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
     "features": [
 { "type": "Feature", "properties": { "seq":"44", "attr":"JGP", "name":"土佐清水",              "organization":"一般社団法人土佐清水ジオパーク推進協議会",      "office":"《足摺宇和海国立公園竜串ビジターセンター「うみのわ」》",         "latlon":[ 32.79107097241982,132.86320242587783 ],     "member":"高知県土佐清水市", "url":"https://tosashimizu-geo.jp/",

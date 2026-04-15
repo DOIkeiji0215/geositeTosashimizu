@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "name": "nationalpark_area",
   "features": [
     {
       "type": "Feature",
