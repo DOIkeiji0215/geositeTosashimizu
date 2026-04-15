@@ -17,7 +17,8 @@
             "_wc":"〇",
             "_busstop":["芝",5],
             "_evacu":["大津津波避難タワー",10],
-            "_assets":"市　天然記念物：大岐のカカツガユ"
+            "_assets":"市　天然記念物：大岐のカカツガユ",
+            "_attribution":"eco_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -38,7 +39,8 @@
             "_wc":"〇",
             "_busstop":["足摺岬",5],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"eco_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -59,7 +61,8 @@
             "_wc":"×",
             "_busstop":["松尾区長場前",5],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":"国　天然記念物：松尾のアコウ"
+            "_assets":"国　天然記念物：松尾のアコウ",
+            "_attribution":"eco_site"
             },
         "geometry": { 
             "type": "Point", 
@@ -80,7 +83,8 @@
             "_wc":"〇",
             "_busstop":["竜串橋",33],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":"県　天然記念物：見残し湾の造礁サンゴ"
+            "_assets":"県　天然記念物：見残し湾の造礁サンゴ",
+            "_attribution":"eco_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -101,7 +105,8 @@
             "_wc":"",
             "_busstop":["",0],
             "_evacu":["",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"eco_site"
             },
         "geometry": { "type": "Point", "coordinates":[132.845,32.73]
             }

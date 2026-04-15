@@ -9,7 +9,8 @@
             "_image":["vc_uminowa","vc_wc","vc_multi"],
             "_note" :["外観","トイレ入り口","多目的トイレ"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8635,32.79104751216054]}},
 
@@ -18,7 +19,8 @@
             "_attr":"wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8621120448952,32.79130130878748]}},
 
@@ -28,7 +30,8 @@
             "_image":["sakurahamaP","sakurahamaWC","sakurahamaWC2"],
             "_note" :["駐車場","トイレ外観","多目的トイレ"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.86476635960753,32.78980917762439]}},
         
@@ -38,7 +41,8 @@
             "_image":["tatsukushiEP0","tatsukushiEP","umi_gallery","umi_gallery1","umi_gallery2"],
             "_note" :["国道入り口","駐車場全景","トイレは海ギャラの中","トイレ入り口","多目的トイレ"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.86630809348028,32.78892803146175]}},
         
@@ -48,7 +52,8 @@
             "_image":["nikonikoP","nikonikoWC","nikonikoWC2"],
             "_note" :["駐車場","トイレ外観","多目的トイレ"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8794831039568,32.790008514891326]}},
         
@@ -58,7 +63,8 @@
             "_image":["michi-no-ekiP","michi-no-ekiWC","michi-no-ekiWC2"],
             "_note" :["駐車場","トイレ外観","多目的トイレ"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8833261731643,32.79377405267808]}},
         
@@ -68,7 +74,8 @@
             "_image":["kashimaP","kashimaWC"],
             "_note" :["駐車場","トイレ外観"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.96082270208444,32.77750440893921]}},
         
@@ -77,7 +84,8 @@
             "_attr":"P wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
 
         },
         "geometry":{"type":"Point","coordinates":[133.01020002447788,32.7260433245378]}},
@@ -88,7 +96,8 @@
             "_image":["ashizuriCapeP1","ashizuriCapeP2","ashizuriCapeP3","ashizuriCapeWC1","ashizuriCapeWC2"],
             "_note" :["駐車場東向き","バス用","乗用車用","トイレ外観","トイレ外観"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[133.01895690100994,32.72519761484701]}},
         
@@ -98,7 +107,8 @@
             "_image":["west_parkP","west_parkWC"],
             "_note" :["駐車場","トイレ外観"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.86023986349392,32.7904301523321]}},
         
@@ -107,7 +117,8 @@
             "_attr":"P",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8575823303436,32.788241080258636]}},
         
@@ -117,7 +128,8 @@
             "_image":["camp_field","camp_fieldWC"],
             "_note" :["トイレ外観","トイレ入り口"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.85833764115526,32.788241080258636]}},
         
@@ -127,7 +139,8 @@
             "_image":["satoumiP"],
             "_note" :["駐車場"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.862954259017,32.791394936250406]}},
         
@@ -137,7 +150,8 @@
             "_image":["tatsukushiP","tatsukushiP2"],
             "_note" :["駐車場","駐車場"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8631527424841,32.79194044028264]}},
         
@@ -146,7 +160,8 @@
             "_attr":"P wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.9320318708051,32.78214120109914]}},
 
@@ -155,7 +170,8 @@
             "_attr":"P wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.99958491377768, 32.78752971383883]}},
 
@@ -164,7 +180,8 @@
             "_attr":"P",
             "_image":["skylineP","skylineP2"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.99022078514102, 32.76076310646737]}},
         
@@ -173,7 +190,8 @@
             "_attr":"P",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.79882371425632, 32.74924404069396]}},
 
@@ -183,7 +201,8 @@
             "_image":["ashizuriEastP1","ashizuriEastP2","ashizuriEastP3"],
             "_note" :["北向き","南向き","入り口"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[133.02008557399859,32.73074452216842]}},
         
@@ -193,7 +212,8 @@
             "_image":["usubaeP","usubaeWC"],
             "_note" :["駐車場","トイレ外観"],
             "_explanation":"多目的トイレ有",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.96868371904569,32.73206938854591]}},
         
@@ -203,7 +223,8 @@
             "_image":["matsuoP1","matsuoP2"],
             "_note" :["東向き","西向き"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.98312044124035,32.734334241986154]}},
         
@@ -212,7 +233,8 @@
             "_attr":"P wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.98510420263483,32.73360114104863]}},
         
@@ -222,7 +244,8 @@
             "_image":["ichinoseP1","ichinoseWC1","ichinoseWC2"],
             "_note" :["駐車場南向き","トイレ外観","多目的入り口"],
             "_explanation":"多目的トイレあり",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.93562602761088,32.903182080452694]}},
         
@@ -231,7 +254,8 @@
             "_attr":"P",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.951191,32.826035]}},
         
@@ -240,7 +264,8 @@
             "_attr":"P wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.94859933826956,32.820252728095546]}},
 
@@ -249,7 +274,8 @@
             "_attr":"wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.95009815647066,32.82479280439525]}},
         
@@ -259,7 +285,8 @@
             "_image":["tojinP","tojinWC"],
             "_note" :["駐車場","トイレ外観"],
             "_explanation":"多目的トイレ有",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.98312734134902,32.743790110579184]}},
         
@@ -268,7 +295,8 @@
             "_attr":"wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.98485314793655,32.86789538589809]}},
                 
@@ -277,7 +305,8 @@
             "_attr":"P wc",
             "_image":[""],
             "_explanation":"旧下ノ加江中学校横",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.952191,32.862119]}},
         
@@ -287,7 +316,8 @@
             "_image":["karitsuP","karitsu"],
             "_note" :["駐車スペース入り口","狩津標石"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[133.0021448128173,32.88016490736162]}},
         
@@ -296,7 +326,8 @@
             "_attr":"P",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8025348185838,32.74980063411782]}},  
         
@@ -306,7 +337,8 @@
             "_image":["kanaezaki1","kanaezaki2"],
             "_note" :["トイレ外観　上から","トイレ外観　下から"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.80211210504606,32.74824076370042]}},
         
@@ -315,7 +347,8 @@
             "_attr":"wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8693175341232,32.774097308513134]}},
         
@@ -324,7 +357,8 @@
             "_attr":"P",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.87239348901497,32.776322573353305]}},
         
@@ -334,7 +368,8 @@
             "_image":["manjiroP1","manjiroP2","manjiroWC1","manjiroWC2"],
             "_note" :["駐車場","駐車場","トイレは足湯施設の中","トイレ入り口"],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[133.01414691558455,32.72469933968927]}},
         
@@ -344,7 +379,8 @@
             "_image":["sakuraP","sakuraWC"],
             "_note" :["駐車場","トイレ外観"],
             "_explanation":"多目的トイレ有",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.9757207632065,32.7343423075394]}},
         
@@ -353,7 +389,8 @@
             "_attr":"P",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.99703574259183,32.73017220123483]}},
         
@@ -362,7 +399,8 @@
             "_attr":"wc",
             "_image":[""],
             "_explanation":"",
-            "_offset":10
+            "_offset":10,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.96409392409262,32.75833701980749]}},
         
@@ -371,7 +409,8 @@
             "_attr":"説明",
             "_image":["kashima"],
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.96085810674415,32.77774970785308]}},
         
@@ -380,7 +419,8 @@
             "_attr":"説明",
             "_image":["sakurahama"],
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.86527383301294,32.789352940281965]}},
         
@@ -389,7 +429,8 @@
             "_attr":"説明",
             "_image":["tatsukushi"],
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.86643361992904,32.78647250596202]}},
         
@@ -398,7 +439,8 @@
             "_attr":"説明",
             "_image":["minokoshi"],
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.86899137470755,32.774399606823636]}},
          
@@ -407,7 +449,8 @@
             "_attr":"里程大",
             "_image":["midori"], 
             "_explanation":"うみのわ　まで 13km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.96506810194845,32.77523593413182]}},
         
@@ -416,7 +459,8 @@
             "_attr":"里程大",
             "_image":["yamabushi"], 
             "_explanation":"うみのわ　まで 5.5km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.9040004207303,32.7940756953705]}},
                 
@@ -425,7 +469,8 @@
             "_attr":"里程大",
             "_image":["ichinono"], 
             "_explanation":"うみのわ　まで 22km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.9411667474206,32.89720676456699]}},
         
@@ -434,7 +479,8 @@
             "_attr":"里程小",
             "_image":["ota"], 
             "_explanation":"うみのわ　まで 6km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.90538412715262,32.79229950812379]}},
         
@@ -443,7 +489,8 @@
             "_attr":"里程小",
             "_image":["nakamashino"], 
             "_explanation":"うみのわ　まで 4.7km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.90241198509156,32.80159114402799]}},
         
@@ -452,7 +499,8 @@
             "_attr":"里程小",
             "_image":["shimokawaguchi"], 
             "_explanation":"うみのわ　まで 2km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.84735784531364,32.782756098362476]}},
         
@@ -461,7 +509,8 @@
             "_attr":"里程小",
             "_image":["kumomo"], 
             "_explanation":"うみのわ　まで 15km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.95472867448356,32.847408983272395]}},
 
@@ -470,7 +519,8 @@
             "_attr":"里程小",
             "_image":["oki_road"], 
             "_explanation":"うみのわ　まで 13km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.95621681219927, 32.8337552967912]}},
 
@@ -479,7 +529,8 @@
             "_attr":"里程小",
             "_image":["ichinose_road"], 
             "_explanation":"うみのわ　まで 23km",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.93625688565956, 32.90616918779288]}},
         
@@ -488,7 +539,8 @@
             "_attr":"説明",
             "_image":["shimonokae"], 
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.93567323802566,32.90287655283777]}},
         
@@ -497,7 +549,8 @@
             "_attr":"説明",
             "_image":["oki"], 
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.95165276671472,32.82586182686342]}},
         
@@ -506,7 +559,8 @@
             "_attr":"説明",
             "_image":["odo"],
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.99701213869415,32.73002279572754]}},
         
@@ -515,7 +569,8 @@
             "_attr":"説明",
             "_image":["hakusan_domon"], 
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[133.0141063930569,32.72458298211147]}},
         
@@ -524,25 +579,18 @@
             "_attr":"説明",
             "_image":["nagashima"],
              "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.85970234857817,32.78994925025655]}},
         
-        { "type": "Feature", "properties": { 
-            "_name":"解説板　叶崎",
-            "_attr":"説明",
-            "_image":[""], 
-            "_explanation":"",
-            "_offset":100
-        },
-        "geometry":{"type":"Point","coordinates":[132.802488,32.749806]}},
-
         { "type": "Feature", "properties": { 
             "_name":"解説板　ビジターセンター前",
             "_attr":"説明",
             "_image":["VC"], 
             "_explanation":"",
-            "_offset":100
+            "_offset":100,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.86312762927903,32.79110355168752]}},
         
@@ -551,7 +599,8 @@
             "_attr":"uminowa",
             "_image":["vc_uminowa"], 
             "_explanation":"足摺宇和海国立公園の竜串ビジターセンターuminowaを土佐清水ジオパークの拠点施設として利用。",
-            "_offset":1
+            "_offset":1,
+            "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.8631,32.79104751216054]}}
     ]

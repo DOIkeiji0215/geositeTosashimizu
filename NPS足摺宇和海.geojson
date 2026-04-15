@@ -10,7 +10,8 @@
         "opacity": 1,
         "weight": 0,
         "fillColor": "#ffa77f",
-        "fillOpacity": 1
+        "fillOpacity": 1,
+        "_attribution":"area"
       },
       "geometry": {
         "type": "Polygon",

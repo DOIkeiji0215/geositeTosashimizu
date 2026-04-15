@@ -20,7 +20,8 @@
             "_wc":"×",
             "_busstop":["小方第二",20],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 		},
 		"geometry": { 
 			"type": "Point", 
@@ -44,7 +45,8 @@
             "_wc":"×",
             "_busstop":["中ノ浜峠",1],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -68,7 +70,8 @@
             "_wc":"〇",
             "_busstop":["中ノ浜",1],
             "_evacu":["黒石",5],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -92,7 +95,8 @@
             "_wc":"×",
             "_busstop":["中ノ浜峠",1],
             "_evacu":["市民センター裏山",5],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -116,7 +120,8 @@
             "_wc":"×",
             "_busstop":["三崎西口",1],
             "_evacu":["五代地北",5],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -140,7 +145,8 @@
             "_wc":"×",
             "_busstop":["三崎西口",10],
             "_evacu":["平ノ段区長場",5],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -164,7 +170,8 @@
             "_wc":"×",
             "_busstop":["浜（下川口）",4],
             "_evacu":["春日神社",7],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -188,7 +195,8 @@
             "_wc":"×",
             "_busstop":["小川通",1],
             "_evacu":["下地区急傾上",2],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -212,7 +220,8 @@
             "_wc":"×",
             "_busstop":["小川通",1],
             "_evacu":["集会所裏山",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 
 			},
 			"geometry": { 
@@ -237,7 +246,8 @@
             "_wc":"×",
             "_busstop":["市野々",1],
             "_evacu":["県道",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -261,7 +271,8 @@
             "_wc":"×",
             "_busstop":["小方第二",10],
             "_evacu":["馬路浄水タンク",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -285,7 +296,8 @@
             "_wc":"×",
             "_busstop":["三崎西口",1],
             "_evacu":["集会所裏山",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -309,7 +321,8 @@
             "_wc":"〇",
             "_busstop":["下川口市民センター",0],
             "_evacu":["天満宮横",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -333,7 +346,8 @@
             "_wc":"×",
             "_busstop":["下川口市民センター",1],
             "_evacu":["天満宮上",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 			"geometry": { "type": "Point", "coordinates":[132.837508,32.785464]
 			}
@@ -355,7 +369,8 @@
             "_wc":"×",
             "_busstop":["下川口漁協前",2],
             "_evacu":["春日神社",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -379,7 +394,8 @@
             "_wc":"×",
             "_busstop":["下川口漁協前",2],
             "_evacu":["春日神社",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -403,7 +419,8 @@
             "_wc":"×",
             "_busstop":["下川口市民センター",1],
             "_evacu":["経塚さん",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -427,7 +444,8 @@
             "_wc":"",
             "_busstop":["",0],
             "_evacu":["",0],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -451,7 +469,8 @@
             "_wc":"×",
             "_busstop":["貝の川",1],
             "_evacu":["ボウの山１",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 
@@ -475,7 +494,8 @@
             "_wc":"×",
             "_busstop":["堂ヶ森",9],
             "_evacu":["灘公園",5],
-            "_assets":"" 
+            "_assets":"" ,
+            "_attribution":"disaster_site"
 			},
 		"geometry": { 
 			"type": "Point", 

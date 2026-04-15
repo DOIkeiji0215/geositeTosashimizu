@@ -17,7 +17,8 @@
             "_wc":"×",
             "_busstop":["下ノ加江下浦",90],
             "_evacu":["最寄りの避難場所なし",30],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -38,7 +39,8 @@
             "_wc":"×",
             "_busstop":["下ノ加江下浦",60],
             "_evacu":["東谷共同作業所",30],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -59,7 +61,8 @@
             "_wc":"×",
             "_busstop":["以布利分岐",5],
             "_evacu":["最寄りの県道",5],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -80,7 +83,8 @@
             "_wc":"×",
             "_busstop":["汐見町",3],
             "_evacu":["清水高校裏山",10],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -101,7 +105,8 @@
             "_wc":"〇",
             "_busstop":["叶崎",2],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -122,7 +127,8 @@
             "_wc":"×",
             "_busstop":["",0],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -143,7 +149,8 @@
             "_wc":"×",
             "_busstop":["松崎",0],
             "_evacu":["西村宅の上",3],
-            "_assets":"市　天然記念物：ハマユウ群落"
+            "_assets":"市　天然記念物：ハマユウ群落",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -164,7 +171,8 @@
             "_wc":"×",
             "_busstop":["竜串橋",33],
             "_evacu":["千尋岬展望所",10],
-            "_assets":"国　天然記念物：千尋岬の化石漣痕"
+            "_assets":"国　天然記念物：千尋岬の化石漣痕",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -185,7 +193,8 @@
             "_wc":"〇",
             "_busstop":["竜串",5],
             "_evacu":["海のギャラリー裏山",8],
-            "_assets":"名勝：竜串"
+            "_assets":"名勝：竜串",
+            "_attribution":"geo_site"
         },
         "geometry": { 
             "type": "Polygon", 
@@ -206,7 +215,8 @@
             "_wc":"〇",
             "_busstop":["爪白",1],
             "_evacu":["オレンジ園",10],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -227,7 +237,8 @@
             "_wc":"〇",
             "_busstop":["爪白",2],
             "_evacu":["",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -248,7 +259,8 @@
             "_wc":"×",
             "_busstop":["",0],
             "_evacu":["",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "LineString", 
@@ -269,7 +281,8 @@
             "_wc":"×",
             "_busstop":["",0],
             "_evacu":["",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -290,7 +303,8 @@
             "_wc":"〇",
             "_busstop":["足摺岬",5],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":"市　天然記念物：足摺岬のビロウ群落"
+            "_assets":"市　天然記念物：足摺岬のビロウ群落",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -311,7 +325,8 @@
             "_wc":"〇",
             "_busstop":["万次郎足湯前",5],
             "_evacu":["県道",5],
-            "_assets":"県　天然記念物：白山洞門"
+            "_assets":"県　天然記念物：白山洞門",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -332,7 +347,8 @@
             "_wc":"×",
             "_busstop":["区長場前",3],
             "_evacu":["",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -353,7 +369,8 @@
             "_wc":"〇",
             "_busstop":["唐人駄場入り口",40],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -374,7 +391,8 @@
             "_wc":"〇",
             "_busstop":["臼碆",0],
             "_evacu":["県道",5],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
             "geometry": { 
                 "type": "Polygon", 
@@ -395,7 +413,8 @@
             "_wc":"〇",
             "_busstop":["足摺国際ホテル前",0],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -416,7 +435,8 @@
             "_wc":"×",
             "_busstop":["下ノ加江下浦",70],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -437,7 +457,8 @@
             "_wc":"×",
             "_busstop":["小方第二",30],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -458,7 +479,8 @@
             "_wc":"",
             "_busstop":["",0],
             "_evacu":["",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -479,7 +501,8 @@
             "_wc":"×",
             "_busstop":["窪津近道",5],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":"市　天然記念物：津呂のモッコク"
+            "_assets":"市　天然記念物：津呂のモッコク",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -500,7 +523,8 @@
             "_wc":"×",
             "_busstop":["厚生橋",0],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":"国　天然記念物：唐船島の隆起海岸"
+            "_assets":"国　天然記念物：唐船島の隆起海岸",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 
@@ -521,7 +545,8 @@
             "_wc":"〇",
             "_busstop":["足摺病院前",2],
             "_evacu":["鹿島ヶ丘",0],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"geo_site"
             },
         "geometry": { 
             "type": "Polygon", 

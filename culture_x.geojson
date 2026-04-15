@@ -17,7 +17,8 @@
             "_wc":"×",
             "_busstop":["浜(清水)",1],
             "_evacu":["県道",5],
-            "_assets":""
+            "_assets":"",
+            "_attribution":"culture_site"
             },
         "geometry": { 
             "type": "Point", 
@@ -38,7 +39,8 @@
             "_wc":"×",
             "_busstop":["松尾区長場前",1],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":"国　重要文化財：吉福家住宅"
+            "_assets":"国　重要文化財：吉福家住宅",
+            "_attribution":"culture_site"
             },
         "geometry": { 
             "type": "Point", 
@@ -59,7 +61,8 @@
             "_wc":"×",
             "_busstop":["松尾西口",6],
             "_evacu":["津波浸水エリア外",0],
-            "_assets":"市　有形文化財：松尾金比羅宮石灯篭"
+            "_assets":"市　有形文化財：松尾金比羅宮石灯篭",
+            "_attribution":"culture_site"
             },
         "geometry": { 
             "type": "Point", 
