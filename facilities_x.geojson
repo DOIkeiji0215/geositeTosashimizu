@@ -340,7 +340,7 @@
             "_offset":10,
             "_attribution":"facilities"
         },
-        "geometry":{"type":"Point","coordinates":[132.80211210504606,32.74824076370042]}},
+        "geometry":{"type":"Point","coordinates":[132.802584,32.749724]}},
         
         { "type": "Feature", "properties": { 
             "_name":"見残し海岸",
@@ -584,6 +584,16 @@
         },
         "geometry":{"type":"Point","coordinates":[132.85970234857817,32.78994925025655]}},
         
+        { "type": "Feature", "properties": { 
+            "_name":"解説板　叶崎",
+            "_attr":"説明",
+            "_image":["kanaezaki"],
+             "_explanation":"",
+            "_offset":100,
+            "_attribution":"facilities"
+        },
+        "geometry":{"type":"Point","coordinates":[132.80211210504606,32.74824076370042]}},
+
         { "type": "Feature", "properties": { 
             "_name":"解説板　ビジターセンター前",
             "_attr":"説明",
