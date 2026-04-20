@@ -189,6 +189,7 @@
             "_name":"叶崎展望台",
             "_attr":"P",
             "_image":["kanaezakiObs"],
+            "_note" :["国道３２１号　東向き"],
             "_explanation":"",
             "_offset":10,
             "_attribution":"facilities"
@@ -587,7 +588,7 @@
         { "type": "Feature", "properties": { 
             "_name":"解説板　叶崎",
             "_attr":"説明",
-            "_image":[""],
+            "_image":["kanaezakiBoard"],
              "_explanation":"",
             "_offset":100,
             "_attribution":"facilities"
