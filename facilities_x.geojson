@@ -588,7 +588,7 @@
         { "type": "Feature", "properties": { 
             "_name":"解説板　叶崎",
             "_attr":"説明",
-            "_image":["kanaezakiBoard"],
+            "_image":["kanaezakiBoard1","kanaezakiBoard2"],
              "_explanation":"",
             "_offset":100,
             "_attribution":"facilities"
