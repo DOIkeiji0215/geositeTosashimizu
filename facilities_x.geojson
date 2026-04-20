@@ -188,7 +188,7 @@
         { "type": "Feature", "properties": { 
             "_name":"叶崎展望台",
             "_attr":"P",
-            "_image":[""],
+            "_image":["kanaezakiObs"],
             "_explanation":"",
             "_offset":10,
             "_attribution":"facilities"
@@ -324,7 +324,7 @@
         { "type": "Feature", "properties": { 
             "_name":"叶崎駐車場",
             "_attr":"P",
-            "_image":[""],
+            "_image":["kanaezaki_P1","kanaezaki_P2"],
             "_explanation":"",
             "_offset":10,
             "_attribution":"facilities"
@@ -332,9 +332,9 @@
         "geometry":{"type":"Point","coordinates":[132.802584,32.749724]}},  
         
         { "type": "Feature", "properties": { 
-            "_name":"叶崎",
+            "_name":"叶崎トイレ",
             "_attr":"wc",
-            "_image":["kanaezaki1","kanaezaki2"],
+            "_image":["kanaezakiWC1","kanaezakiWC2"],
             "_note" :["トイレ外観　上から","トイレ外観　下から"],
             "_explanation":"",
             "_offset":10,
